@@ -24,6 +24,7 @@ $ pod install
 <img src="https://user-images.githubusercontent.com/72879576/96373672-f3dd9700-117a-11eb-8706-afec8cd44914.png" alt="Corona Virus Tracker" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96373672-f3dd9700-117a-11eb-8706-afec8cd44914.png" alt="Corona Virus Tracker" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96373675-f7711e00-117a-11eb-8da4-fdfe3d74133f.png" alt="Corona Virus Tracker" width="250"/>
+<img src="https://user-images.githubusercontent.com/72879576/96374082-7c5d3700-117d-11eb-8cc8-7fad3b91bdd0.png" alt="Corona Virus Tracker" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96373688-0061ef80-117b-11eb-9bfb-3e801fffa08f.png" alt="Corona Virus Tracker" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96373694-08219400-117b-11eb-962f-69e85728f580.png" alt="Corona Virus Tracker" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96373694-08219400-117b-11eb-962f-69e85728f580.png" alt="Corona Virus Tracker" width="250"/>
