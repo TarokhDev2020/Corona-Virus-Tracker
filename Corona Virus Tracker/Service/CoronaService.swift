@@ -68,7 +68,7 @@ extension CoronaService: TargetType {
         case .country:
             return .requestPlain
         case .news:
-            return .requestParameters(parameters: ["country": "us", "category": "health", "apiKey": "efd0b4278f4944e9a1781ed64d35f56e"], encoding: URLEncoding.queryString)
+            return .requestParameters(parameters: ["country": "us", "category": "health", "apiKey": "YOUR API KEY"], encoding: URLEncoding.queryString)
         }
     }
     
